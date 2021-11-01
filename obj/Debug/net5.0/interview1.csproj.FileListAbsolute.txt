@@ -1,0 +1,16 @@
+E:\Microsoft\interview1\bin\Debug\net5.0\interview1.exe
+E:\Microsoft\interview1\bin\Debug\net5.0\interview1.deps.json
+E:\Microsoft\interview1\bin\Debug\net5.0\interview1.runtimeconfig.json
+E:\Microsoft\interview1\bin\Debug\net5.0\interview1.runtimeconfig.dev.json
+E:\Microsoft\interview1\bin\Debug\net5.0\interview1.dll
+E:\Microsoft\interview1\bin\Debug\net5.0\ref\interview1.dll
+E:\Microsoft\interview1\bin\Debug\net5.0\interview1.pdb
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.csproj.AssemblyReference.cache
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.AssemblyInfoInputs.cache
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.AssemblyInfo.cs
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.csproj.CoreCompileInputs.cache
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.dll
+E:\Microsoft\interview1\obj\Debug\net5.0\ref\interview1.dll
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.pdb
+E:\Microsoft\interview1\obj\Debug\net5.0\interview1.genruntimeconfig.cache
