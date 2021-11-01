@@ -40,6 +40,7 @@ namespace interview1
         }
         static void Pyramid()
         {
+            Console.Write("\n***************************************************************\n");
             char ch = 'A';
             for (int i = 1; i <= 5; i++)
             {
@@ -56,6 +57,7 @@ namespace interview1
                 Console.Write("\n");
                 ch = 'A';
             }
+            Console.Write("***************************************************************\n");
         }
 
         static int Sum(string one, string two)
@@ -161,14 +163,16 @@ namespace interview1
         {
 
             string option;
-            Console.Write("\n\nWhat would you like to do? : ");
+            Console.Write("\n***************************************************************");
+            Console.Write("\nWhat would you like to do? : ");
             Console.Write("\nPress 1 to count the number of spaces in a string! : ");
             Console.Write("\nPress 2 to display a pyramid! : ");
             Console.Write("\nPress 3 to have your name said in reverse! : ");
             Console.Write("\nPress 4 to have your name Capitalized! : ");
             Console.Write("\nPress 5 to have two numbers be added up! : ");
             Console.Write("\nPress 6 To check if your number is a palindrome! : ");
-            Console.Write("\nPress 7 To check what character shows up the most! : ");
+            Console.Write("\nPress 7 To check what character shows up the most! :\n");
+            Console.Write("***************************************************************\n");
             option = Console.ReadLine();
             if (option == "1")
                 LineCounter();
